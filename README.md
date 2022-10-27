@@ -1,4 +1,4 @@
-Hi, nice to GH-meet you - I am Aleksa, aka DAOlexa!
+Hi, nice to GH-meet you! I am ```Aleksa aka DAOlexa```
 ===============================================================================================================================
 
 A legal woman gone decentralized. 
@@ -18,16 +18,19 @@ I am also an instructor in Nuclio Digital school, where I teach DAOs, decentrali
 * 🌍  Wanderlust. 
 
 
-### Let's Connect! 
+```Let's Connect!```
 
 <p align="left"> <a href="https://discord.com/users/daolexa#0101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/daolexa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dao__today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksa-mil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alexamil_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-### DAO Today podcast - Coming soon! Subscribe to get notified on new episodes! 
 
-<p align="left"> <a href="https://youtube.com/@dao_today"
+
+
+```DAO Today podcast - Coming soon! Subscribe to get notified on new episodes!```
+
+<img src="https://user-images.githubusercontent.com/116645164/198282437-0785dfe5-459b-4513-a4e5-1e457f1afc76.jpg" width="200" height="200">
+
                     
-<a href="https://www.tiktok.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198278528-17453f6c-e49c-4d14-ad33-d6d1132198aa.png" width="32" height="32">(https://www.tiktok.com/@dao_today)
+<a href="https://www.tiktok.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198278528-17453f6c-e49c-4d14-ad33-d6d1132198aa.png" width="32" height="32">
 <a href="http://www.instagram.com/dao__today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/dao-today-aleksa-mil/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
-
+<a href="https://youtube.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198282043-a6cbade5-f917-416a-8a53-a6f3cf6a52d4.png" width="32" height="32">
