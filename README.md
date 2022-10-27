@@ -9,8 +9,9 @@ I am a legal woman gone decentralized. 💻 I started my blockchain journey when
 * 🧠  I'm learning at the Nicosia University
 * 🤝  I'm open to collaborating on projects looking for consultancy/advisory on how to DAO
 * ⚡  A passionate educator on DAOs, decentralization, and governance.
+* 👩‍💻  An advocate for diversity and inclusion.
 
 
-### Socials
+### Let's Connect! 
 
 <p align="left"> <a href="https://discord.com/users/daolexa#0101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/daolexa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dao__today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksa-mil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alexamil_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
