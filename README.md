@@ -32,7 +32,7 @@ I am also an instructor in Nuclio Digital school, where I teach DAOs, decentrali
 
 <h1 align="center">
   
-  ```DAO Today podcast ``` 
+  ```DAO Today 🎙️🎧  ``` 
   
   <img src="https://user-images.githubusercontent.com/116645164/198282437-0785dfe5-459b-4513-a4e5-1e457f1afc76.jpg" width="200" height="200">
   
