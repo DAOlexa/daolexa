@@ -1,15 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DAOlexa
+Hi, nice to GH-meet you - I am Aleksa, aka DAOlexa!
 ===============================================================================================================================
 
-I am a legal woman gone decentralized. 💻 I started my blockchain journey when I joined a DAO in an operational role, and since then I was mainly focused on DAOs, understanding how they operate, their onchain and offchain challenges, and how to overcome them. Thanks to my legal education and involvement in DAOs, I have gained relevant experiences to support projects on their path to decentralization, help them establish a decentralized governance and operations roadmap, and build necessary frameworks with legal and compliance aspect. On the other hand, I consult legal and compliance professionals advising them on DAOs, and helping them understand the challenges of onchain governance and decentralization. I am also a teacher in Nuclio Digital school, where I teach DAOs, decentralization, governance, tokenization, and the regulatory DAO challenges.
+A legal woman gone decentralized. 
+I started my blockchain journey when I joined a DAO in an operational role, and since then I was mainly focused on DAOs, understanding how they operate, their onchain and offchain challenges, and how to overcome them. 
+Thanks to my legal education and involvement in DAOs, I have gained relevant experiences to support projects on their path to decentralization, help them establish a decentralized governance and operations roadmap, and build necessary frameworks with legal and compliance aspect. On the other hand, I consult legal and compliance professionals advising them on DAOs, and helping them understand the challenges of onchain governance and decentralization. 
+I am also an instructor in Nuclio Digital school, where I teach DAOs, decentralization, governance, tokenization, and the regulatory DAO challenges.
+
 
 * 🖥️  See my portfolio at [Aleksa Mil](http://aleksamil.io/)
 * ✉️  You can contact me at [daolexa@aleksamil.io](mailto:daolexa@aleksamil.io)
-* 🚀  I'm currently working on [DAO Today podcast](http://daotoday.io/)
+* 🎙️  I'm currently working on [DAO Today podcast](http://daotoday.io/)
 * 🧠  I'm learning at the Nicosia University
 * 🤝  I'm open to collaborating on projects looking for consultancy/advisory on how to DAO
 * ⚡  A passionate educator on DAOs, decentralization, and governance.
 * 👩‍💻  An advocate for diversity and inclusion.
+* 🎯  On a mission to bring **legal** women to the blockchain industry.
+* 🌍  Wanderlust. 
 
 
 ### Let's Connect! 
