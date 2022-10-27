@@ -34,11 +34,13 @@ I am also an instructor in Nuclio Digital school, where I teach DAOs, decentrali
   
   ```DAO Today podcast ``` 
   
+  <img src="https://user-images.githubusercontent.com/116645164/198282437-0785dfe5-459b-4513-a4e5-1e457f1afc76.jpg" width="200" height="200">
+  
   Coming soon! 
-  Subscribe to get notified on new episodes!</h1>
+ 
+  Subscribe to get notified on new episodes: </h1>
 
 <h1 align="center">  
-<img src="https://user-images.githubusercontent.com/116645164/198282437-0785dfe5-459b-4513-a4e5-1e457f1afc76.jpg" width="200" height="200">
 
 <a href="https://www.tiktok.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198278528-17453f6c-e49c-4d14-ad33-d6d1132198aa.png" width="50" height="50">
 <a href="http://www.instagram.com/dao__today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/company/dao-today-aleksa-mil/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> 
