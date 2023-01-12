@@ -44,7 +44,7 @@ Aleksa is a DAO and tokenization consultant, and currently serves as a governanc
 
 <h1 align="center">  
 
-<a href="https://www.tiktok.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198278528-17453f6c-e49c-4d14-ad33-d6d1132198aa.png" width="50" height="50">
-<a href="http://www.instagram.com/dao__today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/company/dao-today-aleksa-mil/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> 
+<a href="https://www.tiktok.com/@daotoday_aleksamil" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198278528-17453f6c-e49c-4d14-ad33-d6d1132198aa.png" width="50" height="50">
+<a href="https://www.instagram.com/daotoday_aleksamil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/company/dao-today-aleksa-mil/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> 
 <a href="https://youtube.com/@dao_today" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/116645164/198282043-a6cbade5-f917-416a-8a53-a6f3cf6a52d4.png" width="50" height="50">
  </h1>
